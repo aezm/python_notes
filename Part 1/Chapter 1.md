@@ -21,4 +21,5 @@
   1. 三种定义方式：单引号（' '）、双引号（" "）、三引号（""" """，可换行）
   2. 转义字符：\ , e.g. '\\'test\\'' --输出--> 'test'
   3. 字符串拼接：print("aaa" + ccc + "bbb")  -->  此处变量ccc只能是字符串类型
-  4. 字符串格式化：print("class %s, name %s" % (class_num, name))
+  4. 字符串格式化：print("class %d, name %s" % (class_num, name))![[img/Pasted image 20250814160401.png]]
+  5. 字符串格式化 - 数字精度控制：m.n --> m控制数字宽度，.n控制小数点精度
