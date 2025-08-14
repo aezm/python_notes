@@ -23,3 +23,4 @@
   3. 字符串拼接：print("aaa" + ccc + "bbb")  -->  此处变量ccc只能是字符串类型
   4. 字符串格式化：print("class %d, name %s" % (class_num, name))![[img/Pasted image 20250814160401.png]]
   5. 字符串格式化 - 数字精度控制：m.n --> m控制数字宽度，.n控制小数点精度
+  6. 字符串格式化 - 快速写法：print(f"内容{变量}")
