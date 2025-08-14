@@ -20,5 +20,5 @@
 - 字符串
   1. 三种定义方式：单引号（' '）、双引号（" "）、三引号（""" """，可换行）
   2. 转义字符：\ , e.g. '\\'test\\'' --输出--> 'test'
-  3. 字符串直接拼接：print("aaa" + ccc + "bbb")  -->  此处变量ccc只能是字符串类型
-  4. 字符串ge'shi'hua
+  3. 字符串拼接：print("aaa" + ccc + "bbb")  -->  此处变量ccc只能是字符串类型
+  4. 字符串格式化：print("class %s, name %s" % (class_num, name))
