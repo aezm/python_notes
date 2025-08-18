@@ -13,3 +13,8 @@
 - 遍历循环
   for 临时变量 in 待处理数据集:
 	  执行语句
+
+- range语句
+	1. range(num)：从0开始，到num结束的数字序列（不含num本身）
+	2. range(num1, num2)：从num1开始，到num2结束的数字序列（不含num2本身）
+	3. range(num1, num2, step)：从num1开始，到num2结束，步长为step的数字序列（不含num2本身）
