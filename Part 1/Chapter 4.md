@@ -18,3 +18,7 @@
 	1. range(num)：从0开始，到num结束的数字序列（不含num本身）
 	2. range(num1, num2)：从num1开始，到num2结束的数字序列（不含num2本身）
 	3. range(num1, num2, step)：从num1开始，到num2结束，步长为step的数字序列（不含num2本身）
+
+- 循环中断
+	1. continue
+	2. break
