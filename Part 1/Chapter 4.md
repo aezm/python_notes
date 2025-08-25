@@ -20,5 +20,5 @@
 	3. range(num1, num2, step)：从num1开始，到num2结束，步长为step的数字序列（不含num2本身）
 
 - 循环中断
-	1. continue
-	2. break
+	1. continue：中断本次循环，直接进入下次循环
+	2. break：直接结束循环
